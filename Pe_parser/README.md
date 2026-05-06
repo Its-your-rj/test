@@ -1,4 +1,4 @@
-# PE Parser (C)
+# PE Parser 
 
 Overview
 --------
